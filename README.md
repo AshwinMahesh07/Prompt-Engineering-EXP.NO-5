@@ -1,6 +1,3 @@
-[EXP5_Prompting_Patterns_Full_Report_Ashwin_Kumar.pdf](https://github.com/user-attachments/files/28641424/EXP5_Prompting_Patterns_Full_Report_Ashwin_Kumar.pdf)
-EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
-
 Aim:
 To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios. Analyze the quality, accuracy, and depth of the generated responses.
 
@@ -14,7 +11,7 @@ Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a 
 
 OUTPUT:
 
-[Uploading EXP5_Prompting_Patterns_Full_Report_Ashwin_Kumar.pdf…]()
+[Uploading exp-5.pdf…]()
 
 RESULT: 
 
