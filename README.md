@@ -1,3 +1,4 @@
+[EXP5_Prompting_Patterns_Full_Report_Ashwin_Kumar.pdf](https://github.com/user-attachments/files/28641424/EXP5_Prompting_Patterns_Full_Report_Ashwin_Kumar.pdf)
 EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
 
 Aim:
@@ -13,4 +14,9 @@ Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a 
 
 OUTPUT:
 
+[Uploading EXP5_Prompting_Patterns_Full_Report_Ashwin_Kumar.pdf…]()
+
 RESULT: 
+
+The experiment showed that ChatGPT generates more accurate, detailed, and well-structured responses when given Basic Prompts compared to Naive Prompts. Therefore, prompt clarity and proper context significantly improve the quality and depth of AI-generated outputs.
+
